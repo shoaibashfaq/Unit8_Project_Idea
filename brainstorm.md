@@ -16,3 +16,6 @@
 
 1. **Local Art Explorer**
 2. **Family Health Organizer**
+
+## Final Project Idea
+**Local Art Explorer**
