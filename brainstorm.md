@@ -1,3 +1,5 @@
+## Six Project Ideas
+
 1. **Local Art Explorer** - This app would allow users to discover local artists, their artwork, and upcoming exhibitions. It could use augmented reality (AR) to preview how art pieces would look in a user’s home, offer art walk maps, and facilitate purchases directly from local creators.
 
 2. **Mental Health Journey Tracker** - An app focused on mental wellness that helps users track their mood, stress levels, and overall emotional well-being. It could include features like guided meditations, prompts for journaling, and cognitive behavioral therapy (CBT) exercises. Integration with wearable devices could enhance tracking and provide more personalized insights.
@@ -9,3 +11,8 @@
 5. **Smart Parking Assistant** - This app would help users find available parking spots in real-time using GPS and crowd-sourced data. Features could include price comparison, the ability to reserve and pay for a spot in advance, and notifications about upcoming free parking opportunities.
 
 6. **Family Health Organizer** - An app designed to manage family health records securely, including vaccination histories, allergy information, and medical appointments. It could provide reminders for scheduled appointments and medications, and offer a secure way to share relevant information with healthcare providers.
+
+## Narrowing Down to Two Ideas
+
+1. **Local Art Explorer**
+2. **Family Health Organizer**
